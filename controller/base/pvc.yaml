@@ -9,4 +9,4 @@ spec:
     requests:
       storage: 5Gi
   storageClassName: "ocs-storagecluster-cephfs"
-  volumeMode: Block
+  volumeMode: Filesystem
